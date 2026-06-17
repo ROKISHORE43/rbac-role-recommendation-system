@@ -1,0 +1,6 @@
+identity_id,name,division,department,section,manager,manager_department,title,lifecycle_state,start_date
+I-2025-9001,Arjun Mehta,Technology,IT,Infrastructure,Deepa Rao,IT Operations,Systems Analyst,PreHire,2025-07-20
+I-2025-9002,Priya Nair,Corporate Services,Finance,Accounts Payable,Suresh Kumar,Finance,Junior Accountant,PreHire,2025-07-15
+I-2025-9003,Sunita Patel,People & Culture,HR,Talent Acquisition,Ramesh Iyer,HR,HR Coordinator,PreHire,2025-07-18
+I-2025-9004,Vikram Rajan,Technology,IT,Cybersecurity,Karthik Subramaniam,IT Operations,Security Analyst,PreHire,2025-07-22
+I-2025-9005,Lavanya Pillai,Corporate Services,Finance,Treasury,Naveen Pillai,Finance,Treasury Analyst,PreHire,2025-07-25

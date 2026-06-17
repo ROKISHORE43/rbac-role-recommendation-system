@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI-Based RBAC Role Recommendation System</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+<div class="app">
+  <div class="topbar">
+    <div class="logo-mark">&#9881;</div>
+    <div>
+      <div class="logo-text">AI-Based RBAC Role Recommendation System</div>
+      <div class="logo-sub">Flask + scikit-learn &middot; Peer Similarity Engine &middot; SailPoint ISC simulation</div>
+    </div>
+    <div class="topbar-right">
+      <div class="lc-bar">
+        <div class="lc-pill lc-prehire">PreHire</div><div class="lc-arrow">&rarr;</div>
+        <div class="lc-pill lc-active">Active</div><div class="lc-arrow">&rarr;</div>
+        <div class="lc-pill lc-loa">LeaveOfAbsence</div><div class="lc-arrow">&rarr;</div>
+        <div class="lc-pill lc-term">Terminated</div>
+      </div>
+      <div class="user-chip"><div class="user-dot">AM</div>Account Manager</div>
+    </div>
+  </div>
+  <div class="body">
+    <div class="sidebar">
+      <div class="sidebar-head">
+        <div class="sidebar-title">Identity Queue</div>
+        <div class="search-box">
+          <span style="color:var(--text3);font-size:14px">&#8981;</span>
+          <input type="text" placeholder="Search identities&hellip;" id="search-input" oninput="filterIdentities()">
+        </div>
+        <div class="filter-row">
+          <div class="filter-chip active" onclick="setFilter('all',this)">All</div>
+          <div class="filter-chip" onclick="setFilter('PreHire',this)">PreHire</div>
+          <div class="filter-chip transfer-chip" onclick="setFilter('Transfer',this)">Dept Transfer</div>
+        </div>
+      </div>
+      <div class="id-list" id="id-list">
+        <div style="padding:20px;text-align:center;color:var(--text3);font-size:12px">Loading identities&hellip;</div>
+      </div>
+      <div class="sidebar-stats" id="sidebar-stats">
+        <div class="stat-box"><div class="stat-num" id="stat-prehire">&ndash;</div><div class="stat-lbl">PreHire</div></div>
+        <div class="stat-box"><div class="stat-num" style="color:var(--purple)" id="stat-transfer">&ndash;</div><div class="stat-lbl">Transfers</div></div>
+        <div class="stat-box"><div class="stat-num" style="color:var(--green)" id="stat-active">&ndash;</div><div class="stat-lbl">Active</div></div>
+      </div>
+    </div>
+    <div class="main" id="main">
+      <div class="main-empty" id="empty-state">
+        <div class="empty-icon">&#8853;</div>
+        <div class="empty-text">Select an identity from the queue</div>
+        <div class="empty-sub">Role recommendations are computed live using weighted cosine similarity over peer role-assignment vectors</div>
+      </div>
+      <div class="detail" id="detail-view" style="display:none"></div>
+    </div>
+  </div>
+</div>
+
+<div class="modal-backdrop" id="modal"><div class="modal" id="modal-box"></div></div>
+
+<div class="success-overlay" id="success-overlay">
+  <div class="success-icon" id="success-icon">&#10003;</div>
+  <div class="success-title" id="success-title">Request Submitted</div>
+  <div class="success-sub" id="success-sub"></div>
+  <div class="success-chips" id="success-chips"></div>
+  <div class="success-detail" id="success-detail"></div>
+  <button class="btn btn-primary" onclick="closeSuccess()" style="margin-top:8px">Back to queue</button>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>

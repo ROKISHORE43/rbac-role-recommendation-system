@@ -1,0 +1,28 @@
+role_id,role_name,department,category,is_birthright
+R-IT-001,IT Standard User,IT,Standard,True
+R-IT-002,Server Admin,IT,Privileged,False
+R-IT-003,Network Viewer,IT,Functional,False
+R-IT-004,ITSM Agent,IT,Operational,False
+R-IT-005,Cloud Operator,IT,Functional,False
+R-IT-006,Privileged Access Vault,IT,Privileged,False
+R-IT-007,Application Support Engineer,IT,Functional,False
+R-IT-008,Security Analyst,IT,Functional,False
+R-IT-009,Vulnerability Scanner,IT,Functional,False
+R-IT-010,Firewall Reviewer,IT,Functional,False
+R-IT-011,Incident Responder,IT,Privileged,False
+R-IT-012,Service Desk Agent,IT,Operational,False
+R-FIN-001,Finance Viewer,Finance,Standard,True
+R-FIN-002,ERP Finance User,Finance,System,False
+R-FIN-003,AP Processor,Finance,Functional,False
+R-FIN-004,Budget Analyst,Finance,Functional,False
+R-FIN-005,Expense Approver,Finance,Approval,False
+R-FIN-006,Treasury Analyst,Finance,Functional,False
+R-FIN-007,Internal Auditor,Finance,Sensitive,False
+R-FIN-008,Payroll Viewer,Finance,Sensitive,False
+R-HR-001,HR Self-Service,HR,Standard,True
+R-HR-002,Recruiter,HR,Functional,False
+R-HR-003,HRIS Viewer,HR,Functional,False
+R-HR-004,Onboarding Coordinator,HR,Functional,False
+R-HR-005,Payroll Viewer,HR,Sensitive,False
+R-HR-006,Learning Platform Admin,HR,Functional,False
+R-HR-007,Compensation Analyst,HR,Sensitive,False

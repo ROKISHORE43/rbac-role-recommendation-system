@@ -1,0 +1,184 @@
+identity_id,name,division,department,section,manager,manager_department,title,lifecycle_state
+I-2023-1001,Sandeep Varma,Technology,IT,Infrastructure,Deepa Rao,IT Operations,Systems Analyst,Active
+I-2024-1002,Ravi Das,Technology,IT,Infrastructure,Deepa Rao,IT Operations,Infrastructure Engineer,Active
+I-2025-1003,Arjun Menon,Technology,IT,Infrastructure,Deepa Rao,IT Operations,Platform Engineer,Active
+I-2022-1004,Sunita Acharya,Technology,IT,Infrastructure,Deepa Rao,IT Operations,Systems Analyst,Active
+I-2023-1005,Sunita Reddy,Technology,IT,Infrastructure,Deepa Rao,IT Operations,Senior Systems Analyst,Active
+I-2024-1006,Vivek Kumar,Technology,IT,Infrastructure,Deepa Rao,IT Operations,Systems Analyst,Active
+I-2025-1007,Nandini Babu,Technology,IT,Infrastructure,Deepa Rao,IT Operations,Systems Analyst,Active
+I-2022-1008,Aarti Chowdhury,Technology,IT,Infrastructure,Deepa Rao,IT Operations,Platform Engineer,Active
+I-2023-1009,Latha Verma,Technology,IT,Infrastructure,Deepa Rao,IT Operations,Senior Systems Analyst,Active
+I-2024-1010,Pooja Sharma,Technology,IT,Infrastructure,Deepa Rao,IT Operations,Platform Engineer,Active
+I-2025-1011,Naveen Kumar,Technology,IT,Infrastructure,Deepa Rao,IT Operations,Senior Systems Analyst,Active
+I-2022-1012,Anjali Gupta,Technology,IT,Infrastructure,Deepa Rao,IT Operations,Infrastructure Engineer,Active
+I-2023-1013,Anand Gupta,Technology,IT,Infrastructure,Deepa Rao,IT Operations,Infrastructure Engineer,Active
+I-2024-1014,Nisha Murthy,Technology,IT,Infrastructure,Deepa Rao,IT Operations,Infrastructure Engineer,Active
+I-2025-1015,Vivek Chand,Technology,IT,Infrastructure,Deepa Rao,IT Operations,Platform Engineer,Active
+I-2022-1016,Madhavi Rajan,Technology,IT,Cybersecurity,Karthik Subramaniam,IT Operations,Threat Analyst,Active
+I-2023-1017,Gopal Murthy,Technology,IT,Cybersecurity,Karthik Subramaniam,IT Operations,Threat Analyst,Active
+I-2024-1018,Gopal Rajan,Technology,IT,Cybersecurity,Karthik Subramaniam,IT Operations,Security Analyst,Active
+I-2025-1019,Ajay Kumar,Technology,IT,Cybersecurity,Karthik Subramaniam,IT Operations,Security Engineer,Active
+I-2022-1020,Arjun Krishnan,Technology,IT,Cybersecurity,Karthik Subramaniam,IT Operations,Threat Analyst,Active
+I-2023-1021,Asha Acharya,Technology,IT,Cybersecurity,Karthik Subramaniam,IT Operations,SOC Analyst,Active
+I-2024-1022,Vikram Krishnamurthy,Technology,IT,Cybersecurity,Karthik Subramaniam,IT Operations,Security Analyst,Active
+I-2025-1023,Ravi Kulkarni,Technology,IT,Cybersecurity,Karthik Subramaniam,IT Operations,Security Analyst,Active
+I-2022-1024,Bhavna Krishnan,Technology,IT,Cybersecurity,Karthik Subramaniam,IT Operations,Security Engineer,Active
+I-2023-1025,Nisha Gupta,Technology,IT,Cybersecurity,Karthik Subramaniam,IT Operations,Security Engineer,Active
+I-2024-1026,Shalini Ghosh,Technology,IT,Cybersecurity,Karthik Subramaniam,IT Operations,SOC Analyst,Active
+I-2025-1027,Kavitha Ranganathan,Technology,IT,Cybersecurity,Karthik Subramaniam,IT Operations,Security Analyst,Active
+I-2022-1028,Indira Pillai,Technology,IT,Cybersecurity,Karthik Subramaniam,IT Operations,SOC Analyst,Active
+I-2023-1029,Vikram Krishnan,Technology,IT,Cybersecurity,Karthik Subramaniam,IT Operations,Security Engineer,Active
+I-2024-1030,Madhavi Nayak,Technology,IT,Cybersecurity,Karthik Subramaniam,IT Operations,Pen Tester,Active
+I-2025-1031,Sanjeev Nayak,Technology,IT,Application Development,Farah Sheikh,IT Operations,Senior Developer,Active
+I-2022-1032,Venkat Das,Technology,IT,Application Development,Farah Sheikh,IT Operations,Senior Developer,Active
+I-2023-1033,Indira Pillai,Technology,IT,Application Development,Farah Sheikh,IT Operations,Senior Developer,Active
+I-2024-1034,Indira Iyer,Technology,IT,Application Development,Farah Sheikh,IT Operations,DevOps Engineer,Active
+I-2025-1035,Anjali Singh,Technology,IT,Application Development,Farah Sheikh,IT Operations,Software Engineer,Active
+I-2022-1036,Yash Reddy,Technology,IT,Application Development,Farah Sheikh,IT Operations,Senior Developer,Active
+I-2023-1037,Vijay Joseph,Technology,IT,Application Development,Farah Sheikh,IT Operations,DevOps Engineer,Active
+I-2024-1038,Asha Kulkarni,Technology,IT,Application Development,Farah Sheikh,IT Operations,QA Engineer,Active
+I-2025-1039,Manoj Varma,Technology,IT,Application Development,Farah Sheikh,IT Operations,DevOps Engineer,Active
+I-2022-1040,Naveen Rao,Technology,IT,Application Development,Farah Sheikh,IT Operations,QA Engineer,Active
+I-2023-1041,Deepak Gupta,Technology,IT,Application Development,Farah Sheikh,IT Operations,QA Engineer,Active
+I-2024-1042,Vivek Singh,Technology,IT,Application Development,Farah Sheikh,IT Operations,Senior Developer,Active
+I-2025-1043,Pooja Babu,Technology,IT,Application Development,Farah Sheikh,IT Operations,DevOps Engineer,Active
+I-2022-1044,Indira Menon,Technology,IT,Application Development,Farah Sheikh,IT Operations,Software Engineer,Active
+I-2023-1045,Preeti Gupta,Technology,IT,Application Development,Farah Sheikh,IT Operations,Senior Developer,Active
+I-2024-1046,Sapna Sharma,Technology,IT,Service Desk,Imran Qureshi,IT Operations,IT Support Specialist,Active
+I-2025-1047,Sneha Verma,Technology,IT,Service Desk,Imran Qureshi,IT Operations,Service Desk Analyst,Active
+I-2022-1048,Anjali Nayak,Technology,IT,Service Desk,Imran Qureshi,IT Operations,Service Desk Analyst,Active
+I-2023-1049,Preeti Varma,Technology,IT,Service Desk,Imran Qureshi,IT Operations,IT Support Specialist,Active
+I-2024-1050,Srinivas Bhat,Technology,IT,Service Desk,Imran Qureshi,IT Operations,Desktop Support Engineer,Active
+I-2025-1051,Suresh Menon,Technology,IT,Service Desk,Imran Qureshi,IT Operations,Desktop Support Engineer,Active
+I-2022-1052,Vijay Ranganathan,Technology,IT,Service Desk,Imran Qureshi,IT Operations,IT Support Specialist,Active
+I-2023-1053,Vijay Iyer,Technology,IT,Service Desk,Imran Qureshi,IT Operations,IT Support Specialist,Active
+I-2024-1054,Sanjeev Das,Technology,IT,Service Desk,Imran Qureshi,IT Operations,Service Desk Analyst,Active
+I-2025-1055,Mohit Singh,Technology,IT,Service Desk,Imran Qureshi,IT Operations,Desktop Support Engineer,Active
+I-2022-1056,Rohit Mehta,Technology,IT,Service Desk,Imran Qureshi,IT Operations,IT Support Specialist,Active
+I-2023-1057,Naveen Krishnamurthy,Technology,IT,Service Desk,Imran Qureshi,IT Operations,Desktop Support Engineer,Active
+I-2024-1058,Arun Iyer,Technology,IT,Service Desk,Imran Qureshi,IT Operations,Desktop Support Engineer,Active
+I-2025-1059,Nisha Krishnamurthy,Technology,IT,Service Desk,Imran Qureshi,IT Operations,Service Desk Analyst,Active
+I-2022-1060,Pooja Thomas,Technology,IT,Service Desk,Imran Qureshi,IT Operations,IT Support Specialist,Active
+I-2023-1061,Divya Singh,Corporate Services,Finance,Accounts Payable,Suresh Kumar,Finance,AP Specialist,Active
+I-2024-1062,Naveen Rajan,Corporate Services,Finance,Accounts Payable,Suresh Kumar,Finance,AP Specialist,Active
+I-2025-1063,Preeti Rao,Corporate Services,Finance,Accounts Payable,Suresh Kumar,Finance,Junior Accountant,Active
+I-2022-1064,Rekha Iyer,Corporate Services,Finance,Accounts Payable,Suresh Kumar,Finance,AP Specialist,Active
+I-2023-1065,Kavitha Bose,Corporate Services,Finance,Accounts Payable,Suresh Kumar,Finance,Junior Accountant,Active
+I-2024-1066,Kiran Sharma,Corporate Services,Finance,Accounts Payable,Suresh Kumar,Finance,Senior Accountant,Active
+I-2025-1067,Ramesh Patel,Corporate Services,Finance,Accounts Payable,Suresh Kumar,Finance,AP Specialist,Active
+I-2022-1068,Mohit Chowdhury,Corporate Services,Finance,Accounts Payable,Suresh Kumar,Finance,Junior Accountant,Active
+I-2023-1069,Ajay Ranganathan,Corporate Services,Finance,Accounts Payable,Suresh Kumar,Finance,AP Specialist,Active
+I-2024-1070,Latha Kumar,Corporate Services,Finance,Accounts Payable,Suresh Kumar,Finance,AP Specialist,Active
+I-2025-1071,Rekha Singh,Corporate Services,Finance,Accounts Payable,Suresh Kumar,Finance,AP Specialist,Active
+I-2022-1072,Divya Kumar,Corporate Services,Finance,Accounts Payable,Suresh Kumar,Finance,AP Specialist,Active
+I-2023-1073,Swati Subramaniam,Corporate Services,Finance,Accounts Payable,Suresh Kumar,Finance,AP Lead,Active
+I-2024-1074,Harish Subramaniam,Corporate Services,Finance,Accounts Payable,Suresh Kumar,Finance,AP Specialist,Active
+I-2025-1075,Swati Iyer,Corporate Services,Finance,Accounts Payable,Suresh Kumar,Finance,AP Specialist,Active
+I-2022-1076,Deepak Krishnamurthy,Corporate Services,Finance,Budgeting & Planning,Lata Krishnamurthy,Finance,FP&A Associate,Active
+I-2023-1077,Tarun Ranganathan,Corporate Services,Finance,Budgeting & Planning,Lata Krishnamurthy,Finance,FP&A Associate,Active
+I-2024-1078,Ajay Gupta,Corporate Services,Finance,Budgeting & Planning,Lata Krishnamurthy,Finance,Budget Analyst,Active
+I-2025-1079,Preethi Thomas,Corporate Services,Finance,Budgeting & Planning,Lata Krishnamurthy,Finance,FP&A Associate,Active
+I-2022-1080,Rohit Murthy,Corporate Services,Finance,Budgeting & Planning,Lata Krishnamurthy,Finance,Finance Analyst,Active
+I-2023-1081,Deepak Sharma,Corporate Services,Finance,Budgeting & Planning,Lata Krishnamurthy,Finance,Finance Analyst,Active
+I-2024-1082,Ramesh Gupta,Corporate Services,Finance,Budgeting & Planning,Lata Krishnamurthy,Finance,Budget Analyst,Active
+I-2025-1083,Yash Reddy,Corporate Services,Finance,Budgeting & Planning,Lata Krishnamurthy,Finance,FP&A Associate,Active
+I-2022-1084,Pooja Gupta,Corporate Services,Finance,Budgeting & Planning,Lata Krishnamurthy,Finance,FP&A Associate,Active
+I-2023-1085,Shalini Das,Corporate Services,Finance,Budgeting & Planning,Lata Krishnamurthy,Finance,Finance Analyst,Active
+I-2024-1086,Arjun Pillai,Corporate Services,Finance,Budgeting & Planning,Lata Krishnamurthy,Finance,Finance Analyst,Active
+I-2025-1087,Preethi Acharya,Corporate Services,Finance,Budgeting & Planning,Lata Krishnamurthy,Finance,Budget Analyst,Active
+I-2022-1088,Vivek Rao,Corporate Services,Finance,Budgeting & Planning,Lata Krishnamurthy,Finance,Finance Analyst,Active
+I-2023-1089,Sanjeev Sharma,Corporate Services,Finance,Budgeting & Planning,Lata Krishnamurthy,Finance,Budget Analyst,Active
+I-2024-1090,Preethi Bhat,Corporate Services,Finance,Budgeting & Planning,Lata Krishnamurthy,Finance,Budget Analyst,Active
+I-2025-1091,Naveen Chowdhury,Corporate Services,Finance,Treasury,Naveen Pillai,Finance,Treasury Associate,Active
+I-2022-1092,Asha Nair,Corporate Services,Finance,Treasury,Naveen Pillai,Finance,Treasury Analyst,Active
+I-2023-1093,Priya Kumar,Corporate Services,Finance,Treasury,Naveen Pillai,Finance,Cash Manager,Active
+I-2024-1094,Vijay Kulkarni,Corporate Services,Finance,Treasury,Naveen Pillai,Finance,Cash Manager,Active
+I-2025-1095,Mohit Iyer,Corporate Services,Finance,Treasury,Naveen Pillai,Finance,Treasury Associate,Active
+I-2022-1096,Preethi Verma,Corporate Services,Finance,Treasury,Naveen Pillai,Finance,Cash Manager,Active
+I-2023-1097,Sapna Verma,Corporate Services,Finance,Treasury,Naveen Pillai,Finance,Cash Manager,Active
+I-2024-1098,Vikram Rao,Corporate Services,Finance,Treasury,Naveen Pillai,Finance,Cash Manager,Active
+I-2025-1099,Shalini Kumar,Corporate Services,Finance,Treasury,Naveen Pillai,Finance,Cash Manager,Active
+I-2022-1100,Priya Subramaniam,Corporate Services,Finance,Treasury,Naveen Pillai,Finance,Cash Manager,Active
+I-2023-1101,Deepak Acharya,Corporate Services,Finance,Treasury,Naveen Pillai,Finance,Treasury Analyst,Active
+I-2024-1102,Madhavi Kumar,Corporate Services,Finance,Treasury,Naveen Pillai,Finance,Treasury Associate,Active
+I-2025-1103,Arun Rao,Corporate Services,Finance,Treasury,Naveen Pillai,Finance,Cash Manager,Active
+I-2022-1104,Yash Pillai,Corporate Services,Finance,Treasury,Naveen Pillai,Finance,Treasury Associate,Active
+I-2023-1105,Kavitha Chowdhury,Corporate Services,Finance,Treasury,Naveen Pillai,Finance,Treasury Analyst,Active
+I-2024-1106,Arun Acharya,Corporate Services,Finance,Audit,Geetha Raman,Finance,Audit Associate,Active
+I-2025-1107,Arun Reddy,Corporate Services,Finance,Audit,Geetha Raman,Finance,Audit Associate,Active
+I-2022-1108,Arun Singh,Corporate Services,Finance,Audit,Geetha Raman,Finance,Compliance Analyst,Active
+I-2023-1109,Sunita Thomas,Corporate Services,Finance,Audit,Geetha Raman,Finance,Compliance Analyst,Active
+I-2024-1110,Suresh Bose,Corporate Services,Finance,Audit,Geetha Raman,Finance,Compliance Analyst,Active
+I-2025-1111,Aarti Pillai,Corporate Services,Finance,Audit,Geetha Raman,Finance,Internal Auditor,Active
+I-2022-1112,Harish Verma,Corporate Services,Finance,Audit,Geetha Raman,Finance,Compliance Analyst,Active
+I-2023-1113,Naveen Singh,Corporate Services,Finance,Audit,Geetha Raman,Finance,Audit Associate,Active
+I-2024-1114,Naveen Patel,Corporate Services,Finance,Audit,Geetha Raman,Finance,Compliance Analyst,Active
+I-2025-1115,Rajesh Krishnan,Corporate Services,Finance,Audit,Geetha Raman,Finance,Audit Associate,Active
+I-2022-1116,Anjali Bhat,Corporate Services,Finance,Audit,Geetha Raman,Finance,Internal Auditor,Active
+I-2023-1117,Yash Rajan,Corporate Services,Finance,Audit,Geetha Raman,Finance,Audit Associate,Active
+I-2024-1118,Mohit Kulkarni,Corporate Services,Finance,Audit,Geetha Raman,Finance,Internal Auditor,Active
+I-2025-1119,Nandini Subramaniam,Corporate Services,Finance,Audit,Geetha Raman,Finance,Audit Associate,Active
+I-2022-1120,Asha Acharya,Corporate Services,Finance,Audit,Geetha Raman,Finance,Audit Associate,Active
+I-2023-1121,Preethi Krishnamurthy,People & Culture,HR,Talent Acquisition,Ramesh Iyer,HR,Recruiter,Active
+I-2024-1122,Pooja Iyer,People & Culture,HR,Talent Acquisition,Ramesh Iyer,HR,Talent Specialist,Active
+I-2025-1123,Preeti Singh,People & Culture,HR,Talent Acquisition,Ramesh Iyer,HR,Senior Recruiter,Active
+I-2022-1124,Vivek Verma,People & Culture,HR,Talent Acquisition,Ramesh Iyer,HR,Senior Recruiter,Active
+I-2023-1125,Karthik Chowdhury,People & Culture,HR,Talent Acquisition,Ramesh Iyer,HR,Senior Recruiter,Active
+I-2024-1126,Kiran Iyer,People & Culture,HR,Talent Acquisition,Ramesh Iyer,HR,Recruiter,Active
+I-2025-1127,Suresh Patel,People & Culture,HR,Talent Acquisition,Ramesh Iyer,HR,Senior Recruiter,Active
+I-2022-1128,Ajay Rao,People & Culture,HR,Talent Acquisition,Ramesh Iyer,HR,Recruiter,Active
+I-2023-1129,Vijay Menon,People & Culture,HR,Talent Acquisition,Ramesh Iyer,HR,Senior Recruiter,Active
+I-2024-1130,Divya Varma,People & Culture,HR,Talent Acquisition,Ramesh Iyer,HR,Talent Specialist,Active
+I-2025-1131,Gopal Verma,People & Culture,HR,Talent Acquisition,Ramesh Iyer,HR,Senior Recruiter,Active
+I-2022-1132,Anand Iyer,People & Culture,HR,Talent Acquisition,Ramesh Iyer,HR,Talent Specialist,Active
+I-2023-1133,Priya Babu,People & Culture,HR,Talent Acquisition,Ramesh Iyer,HR,Recruiter,Active
+I-2024-1134,Aarti Pillai,People & Culture,HR,Talent Acquisition,Ramesh Iyer,HR,HR Coordinator,Active
+I-2025-1135,Anjali Subramaniam,People & Culture,HR,Talent Acquisition,Ramesh Iyer,HR,Recruiter,Active
+I-2022-1136,Naveen Pillai,People & Culture,HR,Learning & Development,Sunitha Joseph,HR,L&D Manager,Active
+I-2023-1137,Sneha Pillai,People & Culture,HR,Learning & Development,Sunitha Joseph,HR,Training Specialist,Active
+I-2024-1138,Anand Bose,People & Culture,HR,Learning & Development,Sunitha Joseph,HR,L&D Manager,Active
+I-2025-1139,Vijay Rao,People & Culture,HR,Learning & Development,Sunitha Joseph,HR,L&D Coordinator,Active
+I-2022-1140,Sandeep Nair,People & Culture,HR,Learning & Development,Sunitha Joseph,HR,L&D Coordinator,Active
+I-2023-1141,Meena Das,People & Culture,HR,Learning & Development,Sunitha Joseph,HR,L&D Manager,Active
+I-2024-1142,Karthik Mehta,People & Culture,HR,Learning & Development,Sunitha Joseph,HR,Training Specialist,Active
+I-2025-1143,Ajay Varma,People & Culture,HR,Learning & Development,Sunitha Joseph,HR,L&D Manager,Active
+I-2022-1144,Latha Babu,People & Culture,HR,Learning & Development,Sunitha Joseph,HR,L&D Coordinator,Active
+I-2023-1145,Indira Sharma,People & Culture,HR,Learning & Development,Sunitha Joseph,HR,Training Specialist,Active
+I-2024-1146,Rajesh Patel,People & Culture,HR,Learning & Development,Sunitha Joseph,HR,L&D Manager,Active
+I-2025-1147,Priya Rajan,People & Culture,HR,Learning & Development,Sunitha Joseph,HR,Training Specialist,Active
+I-2022-1148,Suresh Sharma,People & Culture,HR,Learning & Development,Sunitha Joseph,HR,L&D Coordinator,Active
+I-2023-1149,Latha Babu,People & Culture,HR,Learning & Development,Sunitha Joseph,HR,Training Specialist,Active
+I-2024-1150,Anjali Varma,People & Culture,HR,Learning & Development,Sunitha Joseph,HR,L&D Manager,Active
+I-2025-1151,Suresh Reddy,People & Culture,HR,Compensation & Benefits,Anil Bhatia,HR,Benefits Specialist,Active
+I-2022-1152,Pooja Babu,People & Culture,HR,Compensation & Benefits,Anil Bhatia,HR,Benefits Specialist,Active
+I-2023-1153,Ravi Krishnan,People & Culture,HR,Compensation & Benefits,Anil Bhatia,HR,Benefits Specialist,Active
+I-2024-1154,Latha Iyer,People & Culture,HR,Compensation & Benefits,Anil Bhatia,HR,Comp & Ben Analyst,Active
+I-2025-1155,Gopal Rajan,People & Culture,HR,Compensation & Benefits,Anil Bhatia,HR,Benefits Specialist,Active
+I-2022-1156,Vivek Murthy,People & Culture,HR,Compensation & Benefits,Anil Bhatia,HR,Comp & Ben Analyst,Active
+I-2023-1157,Vijay Reddy,People & Culture,HR,Compensation & Benefits,Anil Bhatia,HR,Benefits Specialist,Active
+I-2024-1158,Aarti Nair,People & Culture,HR,Compensation & Benefits,Anil Bhatia,HR,Benefits Specialist,Active
+I-2025-1159,Venkat Mehta,People & Culture,HR,Compensation & Benefits,Anil Bhatia,HR,Comp & Ben Analyst,Active
+I-2022-1160,Sandeep Nair,People & Culture,HR,Compensation & Benefits,Anil Bhatia,HR,Comp & Ben Analyst,Active
+I-2023-1161,Anand Gupta,People & Culture,HR,Compensation & Benefits,Anil Bhatia,HR,Benefits Specialist,Active
+I-2024-1162,Geeta Rajan,People & Culture,HR,Compensation & Benefits,Anil Bhatia,HR,Comp & Ben Analyst,Active
+I-2025-1163,Vijay Das,People & Culture,HR,Compensation & Benefits,Anil Bhatia,HR,Comp & Ben Analyst,Active
+I-2022-1164,Pallavi Gupta,People & Culture,HR,Compensation & Benefits,Anil Bhatia,HR,Comp & Ben Analyst,Active
+I-2023-1165,Shalini Thomas,People & Culture,HR,Compensation & Benefits,Anil Bhatia,HR,Benefits Specialist,Active
+I-2024-1166,Nisha Singh,People & Culture,HR,HR Operations,Kavya Menon,HR,HRBP,Active
+I-2025-1167,Meena Verma,People & Culture,HR,HR Operations,Kavya Menon,HR,HRBP,Active
+I-2022-1168,Ramesh Nayak,People & Culture,HR,HR Operations,Kavya Menon,HR,HRBP,Active
+I-2023-1169,Srinivas Menon,People & Culture,HR,HR Operations,Kavya Menon,HR,HRBP,Active
+I-2024-1170,Anjali Subramaniam,People & Culture,HR,HR Operations,Kavya Menon,HR,HR Operations Analyst,Active
+I-2025-1171,Divya Reddy,People & Culture,HR,HR Operations,Kavya Menon,HR,HR Operations Analyst,Active
+I-2022-1172,Kiran Joseph,People & Culture,HR,HR Operations,Kavya Menon,HR,HR Operations Analyst,Active
+I-2023-1173,Sanjeev Iyer,People & Culture,HR,HR Operations,Kavya Menon,HR,HR Generalist,Active
+I-2024-1174,Sapna Chowdhury,People & Culture,HR,HR Operations,Kavya Menon,HR,HR Operations Analyst,Active
+I-2025-1175,Ramesh Babu,People & Culture,HR,HR Operations,Kavya Menon,HR,HRBP,Active
+I-2022-1176,Yash Kumar,People & Culture,HR,HR Operations,Kavya Menon,HR,HRBP,Active
+I-2023-1177,Vikram Chand,People & Culture,HR,HR Operations,Kavya Menon,HR,HR Operations Analyst,Active
+I-2024-1178,Manoj Singh,People & Culture,HR,HR Operations,Kavya Menon,HR,HR Operations Analyst,Active
+I-2025-1179,Ramesh Rao,People & Culture,HR,HR Operations,Kavya Menon,HR,HR Operations Analyst,Active
+I-2022-1180,Divya Krishnan,People & Culture,HR,HR Operations,Kavya Menon,HR,HRBP,Active
+I-2024-9101,Meena Sharma,Corporate Services,Finance,Accounts Payable,Suresh Kumar,Finance,Transferring Employee,Active
+I-2023-9102,Ravi Krishnan,Technology,IT,Infrastructure,Deepa Rao,IT Operations,Transferring Employee,Active
+I-2023-9103,Anjali Bose,People & Culture,HR,Talent Acquisition,Ramesh Iyer,HR,Transferring Employee,Active

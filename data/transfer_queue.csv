@@ -1,0 +1,4 @@
+identity_id,name,from_division,from_department,from_section,from_manager,from_manager_department,to_division,to_department,to_section,to_manager,to_manager_department,effective_date,reason
+I-2024-9101,Meena Sharma,Corporate Services,Finance,Accounts Payable,Suresh Kumar,Finance,Technology,IT,Infrastructure,Deepa Rao,IT Operations,2025-08-01,Internal mobility - Technology division expansion
+I-2023-9102,Ravi Krishnan,Technology,IT,Infrastructure,Deepa Rao,IT Operations,People & Culture,HR,Talent Acquisition,Ramesh Iyer,HR,2025-08-05,Role redesign - HRBP embedded in Technology division
+I-2023-9103,Anjali Bose,People & Culture,HR,Talent Acquisition,Ramesh Iyer,HR,Corporate Services,Finance,Accounts Payable,Suresh Kumar,Finance,2025-08-10,Career progression - Finance rotation programme
